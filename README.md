@@ -1,1 +1,1 @@
-# LeetCode Solutions — @abdulnkhan
+# Coding Practice
